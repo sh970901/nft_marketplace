@@ -1,6 +1,8 @@
 
 import logo from './logo.png';
 import './App.css';
+
+import {ether} from "ethers"
  
 function App() {
   return (
